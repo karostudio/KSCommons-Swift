@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KSCommons-Swift_Tests' do
+  pod 'KSCommons-Swift', :path => '../'
+  
+  
+end
