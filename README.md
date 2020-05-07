@@ -1,9 +1,11 @@
-# KSCommons-Swift
+# Karo Studio Creative Agency
 
-[![CI Status](https://img.shields.io/travis/mamady83@gmail.com/KSCommons-Swift.svg?style=flat)](https://travis-ci.org/mamady83@gmail.com/KSCommons-Swift)
+Karo Studio is Iran's leading digital agency with solid design and development expertise. We build mobile and web applications. Drop us a line.
+
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/karostudio/KSCommons-Swift/blob/master/LICENSE)
 [![Version](https://img.shields.io/cocoapods/v/KSCommons-Swift.svg?style=flat)](https://cocoapods.org/pods/KSCommons-Swift)
-[![License](https://img.shields.io/cocoapods/l/KSCommons-Swift.svg?style=flat)](https://cocoapods.org/pods/KSCommons-Swift)
-[![Platform](https://img.shields.io/cocoapods/p/KSCommons-Swift.svg?style=flat)](https://cocoapods.org/pods/KSCommons-Swift)
+[![Swift 4.2](https://img.shields.io/badge/Swift-4.2-green.svg?style=flat)](https://developer.apple.com/swift/)
+
 
 ## Example
 
