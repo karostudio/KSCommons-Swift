@@ -39,7 +39,7 @@
 		4EAAB203B8BC78F74A1D39A5BA8FE1D4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4EEEEBF3545F61A09CF605CF3391BB9D /* KSCommons-Swift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "KSCommons-Swift.xcconfig"; sourceTree = "<group>"; };
 		54CC6F444B076BC1F3FEF31A3F45A2FC /* KSCommons-Swift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KSCommons-Swift-umbrella.h"; sourceTree = "<group>"; };
-		718A38C924640C79009E84AD /* CommonExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonExtensions.swift; sourceTree = "<group>"; };
+		718A38C924640C79009E84AD /* CommonExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CommonExtensions.swift; path = "KSCommons-Swift/Classes/CommonExtensions.swift"; sourceTree = "<group>"; };
 		787CE532752724AC1C2CFD6A13405196 /* Pods-KSCommons-Swift_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KSCommons-Swift_Tests-Info.plist"; sourceTree = "<group>"; };
 		7B745FAF270C07A1F4D61222832E4008 /* Pods-KSCommons-Swift_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KSCommons-Swift_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		8764379CFC0A7E0AC609FA98610FB079 /* KSCommons-Swift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "KSCommons-Swift.podspec"; sourceTree = "<group>"; tabWidth = 2; };
