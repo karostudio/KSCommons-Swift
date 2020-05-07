@@ -1,0 +1,16 @@
+PODS:
+  - KSCommons-Swift (0.1.0)
+
+DEPENDENCIES:
+  - KSCommons-Swift (from `../`)
+
+EXTERNAL SOURCES:
+  KSCommons-Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KSCommons-Swift: e681279a096ae920721726601df5876e2bdc2f73
+
+PODFILE CHECKSUM: 6d41f4106b2b159bc0c5572df6f0446d01660a8d
+
+COCOAPODS: 1.8.4

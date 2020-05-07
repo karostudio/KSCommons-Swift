@@ -1,0 +1,22 @@
+{
+  "name": "KSCommons-Swift",
+  "version": "0.1.0",
+  "summary": "A short description of KSCommons-Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mamady83@gmail.com/KSCommons-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mamady83@gmail.com": "mamady83@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mamady83@gmail.com/KSCommons-Swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KSCommons-Swift/Classes/**/*"
+}

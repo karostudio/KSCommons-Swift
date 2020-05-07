@@ -1,0 +1,6 @@
+framework module KSCommons_Swift {
+  umbrella header "KSCommons-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

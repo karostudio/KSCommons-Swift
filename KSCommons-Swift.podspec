@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'KSCommons-Swift'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of KSCommons-Swift.'
+  s.summary          = 'Common tools and functions for swift development'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/mamady83@gmail.com/KSCommons-Swift'
+  s.homepage         = 'https://github.com/karostudio/KSCommons-Swift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'mamady83@gmail.com' => 'mamady83@gmail.com' }
-  s.source           = { :git => 'https://github.com/mamady83@gmail.com/KSCommons-Swift.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'Mohamad Yeganeh' => 'mamady83@gmail.com' }
+  s.source           = { :git => 'https://github.com/karostudio/KSCommons-Swift.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://www.instagram.com/karo.studio/'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'KSCommons-Swift/Classes/**/*'
   
