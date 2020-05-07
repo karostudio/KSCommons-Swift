@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KSCommons-Swift'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Common tools and functions for swift development'
   s.swift_versions   = '4.0'
 
