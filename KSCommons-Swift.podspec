@@ -23,7 +23,7 @@ Common tools and functions for swift development built by Karo Studio to make yo
                        DESC
 
   s.homepage         = 'https://github.com/karostudio/KSCommons-Swift'
-  s.screenshots     = 'https://github.com/karostudio/screenshots/screenshot_one.png'
+  s.screenshots     = 'https://github.com/karostudio/screenshots/screenshot_one.png','https://github.com/karostudio/screenshots/screenshot_two.png','https://github.com/karostudio/screenshots/screenshot_three.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mohamad Yeganeh' => 'mamady83@gmail.com' }
   s.source           = { :git => 'https://github.com/karostudio/KSCommons-Swift.git', :tag => s.version.to_s }
