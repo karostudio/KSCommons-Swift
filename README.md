@@ -32,13 +32,13 @@ options that will empower your story builder
 
 - UIButton `imagePadding`
 - UIButton image tint color using `tintOverlay` property
-<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshow_three.png">
+<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshow_three.png" width="400" height="114">
 
 - UITextField `placeHolderColor`
-<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshot_one.png">
+<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshot_one.png" width="400" height="73">
 
 - UIView full `shadow`  `border` and  `cornerRadius` setup
-<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshot_two.png">
+<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshot_two.png" width="400" height="324">
 
 - UIView differnet corner radius for each border `view.roundCorners()`
 
