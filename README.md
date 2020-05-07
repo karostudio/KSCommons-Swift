@@ -22,7 +22,7 @@ pod 'KSCommons-Swift'
 
 ## Author
 
-mamady83@gmail.com, mamady83@gmail.com
+Mohamad Yeganeh
 
 ## License
 
