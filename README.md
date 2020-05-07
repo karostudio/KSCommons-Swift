@@ -31,10 +31,16 @@ pod 'KSCommons-Swift'
 options that will empower your story builder
 
 - UIButton `imagePadding`
-- UITextField `placeHolderColor`
-- UIView full `shadow`  `border` and  `cornerRadius` setup
-- UIView differnet corner radius for each border `view.roundCorners()`
 - UIButton image tint color using `tintOverlay` property
+<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshow_three.png">
+
+- UITextField `placeHolderColor`
+<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshot_one.png">
+
+- UIView full `shadow`  `border` and  `cornerRadius` setup
+<img src="https://raw.githubusercontent.com/karostudio/KSCommons-Swift/master/screenshots/screenshot_two.png">
+
+- UIView differnet corner radius for each border `view.roundCorners()`
 
 ## Common Extensions
 
