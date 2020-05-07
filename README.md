@@ -26,19 +26,23 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'KSCommons-Swift'
 ```
-## Usage
-
-this library is a set of Swift Extensions that can help you  with your development
 
 ## UIView Extensions
 options that will empower your story builder
 
-- UIButton imagePadding
-- UITextField placeHolderColor
+- UIButton `imagePadding`
+- UITextField `placeHolderColor`
 - UIView full shadow - border corner radius setup
 - UIView differnet corner radius for each border `view.roundCorners()`
-- UIButton image tint color using tintOverlay property
+- UIButton image tint color using `tintOverlay` property
 - UIButton click closure using `button.addTargetClosure`
+
+## Common Extensions
+
+- String `strikeThrough` which draws a line over text and returns a `NSAttributedString`
+- String `toPersianNumber()` which replaces numbers to persian value
+- String `width` and `height` which returns calculated size of text according to its font
+- Date `relativeTime` which returns relative time from now like `2 minutes ago`
 
 
 ## Author
