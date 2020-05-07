@@ -22,7 +22,7 @@ pod 'KSCommons-Swift'
 
 ## Author
 
-Mohamad Yeganeh
+[Mohamad Yeganeh](https://github.com/mohamadyeganeh76)
 
 ## License
 
