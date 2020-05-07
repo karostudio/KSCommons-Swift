@@ -10,7 +10,8 @@
 		23D95000DF6EE6AC855FF54114C1BD3C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		2D754B3258A947A0842C26988E3285E8 /* Pods-KSCommons-Swift_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A6921DA8F87148785302DD3781528BC /* Pods-KSCommons-Swift_Tests-dummy.m */; };
 		4AE7303D5D2BD21C6607DF57C1C7390F /* Pods-KSCommons-Swift_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9820D916009E1BABC6EC3067A94A5D3F /* Pods-KSCommons-Swift_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5477AA168A82DECF21F3554D86848A55 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A0C08965722B6CB0330AE79D6D8A45 /* ReplaceMe.swift */; };
+		5477AA168A82DECF21F3554D86848A55 /* UIViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A0C08965722B6CB0330AE79D6D8A45 /* UIViewExtensions.swift */; };
+		718A38CA24640C79009E84AD /* CommonExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718A38C924640C79009E84AD /* CommonExtensions.swift */; };
 		7C8FB2F0CDC6BB923CFE3CCE3516D1C6 /* KSCommons-Swift-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 54CC6F444B076BC1F3FEF31A3F45A2FC /* KSCommons-Swift-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F59BAD361510804F6A46BCD2F93274C6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		FEED112B95675DD25025AEB33CDBCE3F /* KSCommons-Swift-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EE19D7C01FA62A97D52733B9818E2ADD /* KSCommons-Swift-dummy.m */; };
@@ -28,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		01F3F9DCD0905D686E61EBED11C93E6C /* KSCommons-Swift-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "KSCommons-Swift-Info.plist"; sourceTree = "<group>"; };
-		13A0C08965722B6CB0330AE79D6D8A45 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = "KSCommons-Swift/Classes/ReplaceMe.swift"; sourceTree = "<group>"; };
+		13A0C08965722B6CB0330AE79D6D8A45 /* UIViewExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIViewExtensions.swift; path = "KSCommons-Swift/Classes/UIViewExtensions.swift"; sourceTree = "<group>"; };
 		284A1AF44DAA94F7AA0B93698000F6CD /* Pods-KSCommons-Swift_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-KSCommons-Swift_Tests.modulemap"; sourceTree = "<group>"; };
 		2DCD4A046B3A60CD4F46BC03C357E935 /* Pods_KSCommons_Swift_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KSCommons_Swift_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -38,6 +39,7 @@
 		4EAAB203B8BC78F74A1D39A5BA8FE1D4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4EEEEBF3545F61A09CF605CF3391BB9D /* KSCommons-Swift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "KSCommons-Swift.xcconfig"; sourceTree = "<group>"; };
 		54CC6F444B076BC1F3FEF31A3F45A2FC /* KSCommons-Swift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KSCommons-Swift-umbrella.h"; sourceTree = "<group>"; };
+		718A38C924640C79009E84AD /* CommonExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonExtensions.swift; sourceTree = "<group>"; };
 		787CE532752724AC1C2CFD6A13405196 /* Pods-KSCommons-Swift_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KSCommons-Swift_Tests-Info.plist"; sourceTree = "<group>"; };
 		7B745FAF270C07A1F4D61222832E4008 /* Pods-KSCommons-Swift_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KSCommons-Swift_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		8764379CFC0A7E0AC609FA98610FB079 /* KSCommons-Swift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "KSCommons-Swift.podspec"; sourceTree = "<group>"; tabWidth = 2; };
@@ -106,7 +108,8 @@
 		B994CD7A7B43E2C6A432557A1024CC29 /* KSCommons-Swift */ = {
 			isa = PBXGroup;
 			children = (
-				13A0C08965722B6CB0330AE79D6D8A45 /* ReplaceMe.swift */,
+				13A0C08965722B6CB0330AE79D6D8A45 /* UIViewExtensions.swift */,
+				718A38C924640C79009E84AD /* CommonExtensions.swift */,
 				D40CC64BC97586338633617CA36721A2 /* Pod */,
 				33E71F3FD33FFC79581A17FE87668AF6 /* Support Files */,
 			);
@@ -286,7 +289,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FEED112B95675DD25025AEB33CDBCE3F /* KSCommons-Swift-dummy.m in Sources */,
-				5477AA168A82DECF21F3554D86848A55 /* ReplaceMe.swift in Sources */,
+				718A38CA24640C79009E84AD /* CommonExtensions.swift in Sources */,
+				5477AA168A82DECF21F3554D86848A55 /* UIViewExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
