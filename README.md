@@ -6,7 +6,7 @@ Karo Studio is a digital agency with solid design and development expertise.We b
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/karostudio/KSCommons-Swift/blob/master/LICENSE)
 [![Version](https://img.shields.io/cocoapods/v/KSCommons-Swift.svg?style=flat)](https://cocoapods.org/pods/KSCommons-Swift)
 [![Swift 4.2](https://img.shields.io/badge/Swift-4.2-green.svg?style=flat)](https://developer.apple.com/swift/)
-[![Instagram](https://img.shields.io/badge/Instagram-@KaroStudio-blue.svg?style=flat)](https://www.instagram.com/karo.studio/)
+[![Instagram](https://img.shields.io/badge/Instagram-@KaroStudio-red.svg?style=flat)](https://www.instagram.com/karo.studio/)
 
 
 ## Example
