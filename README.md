@@ -32,7 +32,7 @@ options that will empower your story builder
 
 - UIButton `imagePadding`
 - UITextField `placeHolderColor`
-- UIView full shadow - border corner radius setup
+- UIView full `shadow`  `border` and  `cornerRadius` setup
 - UIView differnet corner radius for each border `view.roundCorners()`
 - UIButton image tint color using `tintOverlay` property
 - UIButton click closure using `button.addTargetClosure`
