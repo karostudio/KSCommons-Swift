@@ -35,7 +35,6 @@ options that will empower your story builder
 - UIView full `shadow`  `border` and  `cornerRadius` setup
 - UIView differnet corner radius for each border `view.roundCorners()`
 - UIButton image tint color using `tintOverlay` property
-- UIButton click closure using `button.addTargetClosure`
 
 ## Common Extensions
 
